@@ -3,3 +3,4 @@
 - oven
 - microwave
 - spoon
+- lid
